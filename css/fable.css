@@ -1,0 +1,32 @@
+body
+{
+	background-color: #F8B4FA;
+	color: #3340F5;
+}
+h1.header
+{
+	text-align: center;
+	text-decoration: underline;
+}
+p.italique
+{
+	font-style: italic;
+}
+.corbeau
+{
+	font-weight: bold;
+}
+#retour
+{
+	text-decoration: none;
+	font-family: Verdana;
+	border: 1px grey solid;
+	padding: 4px;
+	border-radius: 4px;
+	font-weight: bold;
+}
+a:hover
+{
+	color: #0000FF;
+	background-color: #7030A0;
+}

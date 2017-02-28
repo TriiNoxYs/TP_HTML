@@ -1,0 +1,31 @@
+body
+{
+	background-color: #ADD8E6;
+	text-align: center;
+}
+#head-title
+{
+	font-weight: bold;
+	font-size: 2rem;
+}
+img
+{
+	width: 600px;
+	height: 400px;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+#retour
+{
+	text-decoration: none;
+	font-family: Verdana;
+	border: 1px grey solid;
+	padding: 4px;
+	border-radius: 4px;
+	font-weight: bold;
+}
+a:hover
+{
+	color: #0000FF;
+	background-color: #7030A0;
+}

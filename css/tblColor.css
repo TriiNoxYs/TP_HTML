@@ -1,0 +1,75 @@
+body
+{
+	background-color: #A52A2A;
+	text-align: center;
+}
+table, td, th
+{
+	border: 5px solid black;
+	border-collapse: collapse;
+}
+th
+{
+	padding: 30px;
+}
+td
+{
+	padding: 10px;
+	text-align: right;
+}
+table
+{
+	width: 50%;
+	margin-bottom: 4rem;
+}
+table.center 
+{
+	margin-left:auto; 
+	margin-right:auto;
+}
+.pourc33
+{
+	width: 33%;
+}
+.pourc34
+{
+	width: 34%;
+}
+#RED
+{
+	background-color: #FF0000;
+}
+#GREEN
+{
+	background-color: #00FF00;
+}
+#BLUE
+{
+	background-color: #0000FF;
+}
+#PURPLE
+{
+	background-color: #7030A0;
+}
+#YELLOW
+{
+	background-color: #FFFF00;
+}
+#ORANGE
+{
+	background-color: #FFC000;
+}
+#retour
+{
+	text-decoration: none;
+	font-family: Verdana;
+	border: 1px grey solid;
+	padding: 4px;
+	border-radius: 4px;
+	font-weight: bold;
+}
+a:hover
+{
+	color: #0000FF;
+	background-color: #7030A0;
+}

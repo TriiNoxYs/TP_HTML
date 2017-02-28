@@ -1,0 +1,66 @@
+body
+{
+	background-color: green;
+	text-align: center;
+}
+a#head-title, a#head-title:visited
+{
+	color: #FFC0CB;
+	font-size: 40px;
+}
+nav
+{
+	padding-top: 4rem;
+}
+.btn
+{
+	text-decoration: none;
+	color: #E7A70C;
+	font-weight: bold;
+}
+table, td, th
+{
+	border: 3px solid black;
+	border-collapse: collapse;
+}
+th
+{
+	padding: 10px;
+	background-color: #7030A0;
+	color: #FFFFFF;
+	font-size: 2rem;
+}
+td
+{
+	padding: 10px;
+	text-align: center;
+}
+table
+{
+	width: 40%;
+}
+table.center 
+{
+	margin-left:auto; 
+	margin-right:auto;
+}
+#line-1
+{
+	background-color: #0000FF;
+}
+#line-2
+{
+	background-color: #FFFFFF;
+}
+#line-3
+{
+	background-color: #FF0000;
+}
+.pourc50
+{
+	width: 50%;
+}
+.pourc50:hover
+{
+	background-color: #00FF00;
+}
