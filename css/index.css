@@ -4,6 +4,12 @@ p.sources
 	font-size: 16px;
 }
 
+p.realsite
+{
+	text-align: left;
+	font-size: 16px;
+}
+
 body
 {
 	background-color: green;
