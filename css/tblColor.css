@@ -59,15 +59,6 @@ table.center
 {
 	background-color: #FFC000;
 }
-#retour
-{
-	text-decoration: none;
-	font-family: Verdana;
-	border: 1px grey solid;
-	padding: 4px;
-	border-radius: 4px;
-	font-weight: bold;
-}
 a:hover
 {
 	color: #0000FF;
